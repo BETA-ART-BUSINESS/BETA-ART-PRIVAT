@@ -36,7 +36,7 @@
     "@vercel/connect": "0.8.0",
     "@vercel/speed-insights": "2.0.0",
     "ai": "7.0.70",
-    "better-auth": "1.7.1",
+    "better-auth": "1.7.7",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
     "cmdk": "1.1.1",
